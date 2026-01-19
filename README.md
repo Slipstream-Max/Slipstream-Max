@@ -1,5 +1,19 @@
 # 💫 About Me:
-👋 Hi there! I'm a developer passionate about bridging the gap between **Advanced AI** and **Practical Applications**.<br><br>🔭 **Current Focus & Projects:**<br>* **🤖 AI Agents:** Building intelligent conversational agents using **FastAPI** backend and **LangGraph** orchestration.<br>* **🧠 Deep Learning:** Researching **LLM Quantization** and Deep Learning architectures.<br>* **📱 Smart Wearables:** Designing the Android client for a Smart Glasses conversational agent using **Flutter/Dart** and **Kotlin**.<br>* **🦀 Rust Development:** Exploring software development and open source contributions.<br>* **⚙️ Automation:** Streamlining workflows with **PowerShell** scripts and **Linux** environments.<br>* **🏛️ Basis:** Using C/C++ to write **Data Structures & Algorithms**.<br><br>🌱 **Learning Journey:**<br>Currently diving deeper into **Rust** ecosystem and **Flutter** cross-platform patterns to enhance performance and UI/UX.<br><br>⚡ **Fun Fact:**<br>When I'm not training models or debugging code, you can find me mixing **Trance** music 🎧 on my **Denon Prime 4+** and **Traktor S5**.
+👋 Hi there! I'm a developer passionate about bridging the gap between **Advanced AI** and **Practical Applications**.
+
+🔭 **Current Focus & Projects:**
+* **🤖 AI Agents:** Building intelligent conversational agents using **FastAPI** backend and **LangGraph** orchestration.
+* **🧠 Deep Learning:** Researching **LLM Quantization** and Deep Learning architectures.
+* **📱 Smart Wearables:** Designing the Android client for a Smart Glasses conversational agent using **Flutter/Dart** and **Kotlin**.
+* **🦀 Rust Development:** Exploring software development and open source contributions.
+* **⚙️ Automation:** Streamlining workflows with **PowerShell** scripts and **Linux** environments.
+* **🏛️ Basis:** Using C/C++ to write **Data Structures & Algorithms**.
+
+🌱 **Learning Journey:**
+Currently diving deeper into **Rust** ecosystem and **Flutter** cross-platform patterns to enhance performance and UI/UX.
+
+⚡ **Fun Fact:**
+When I'm not training models or debugging code, you can find me mixing **Trance** music 🎧 on my **Denon Prime 4+** and **Traktor S5**.
 
 ---
 
