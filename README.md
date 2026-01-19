@@ -40,11 +40,3 @@ When I'm not training models or debugging code, you can find me mixing **Trance*
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slipstream-Max&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="180" alt="languages graph" />
 </div>
-
-<br>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Slipstream-Max&icon=1&color=3" />
-  </a>
-</p>
